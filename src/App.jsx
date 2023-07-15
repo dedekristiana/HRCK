@@ -4,7 +4,7 @@ function App() {
       <div
         className="hero min-h-screen"
         style={{
-          backgroundImage: "url(../public/bg.jpg)",
+          backgroundImage: "url(/bg.jpg)",
         }}
       >
         <div className="hero-overlay bg-opacity-20"></div>
